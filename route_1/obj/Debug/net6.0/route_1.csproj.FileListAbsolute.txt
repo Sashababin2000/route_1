@@ -1,0 +1,15 @@
+C:\Users\zolot\source\repos\route_1\route_1\bin\Debug\net6.0\route_1.exe
+C:\Users\zolot\source\repos\route_1\route_1\bin\Debug\net6.0\route_1.deps.json
+C:\Users\zolot\source\repos\route_1\route_1\bin\Debug\net6.0\route_1.runtimeconfig.json
+C:\Users\zolot\source\repos\route_1\route_1\bin\Debug\net6.0\route_1.dll
+C:\Users\zolot\source\repos\route_1\route_1\bin\Debug\net6.0\route_1.pdb
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.csproj.AssemblyReference.cache
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.AssemblyInfoInputs.cache
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.AssemblyInfo.cs
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.csproj.CoreCompileInputs.cache
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.dll
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\refint\route_1.dll
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.pdb
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\route_1.genruntimeconfig.cache
+C:\Users\zolot\source\repos\route_1\route_1\obj\Debug\net6.0\ref\route_1.dll
